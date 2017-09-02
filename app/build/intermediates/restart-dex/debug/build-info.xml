@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="ldpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="599417098000514"
+    token="-1737500276091341914" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="598526202194941"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\tulik\Documents\study\android\PA4\SimpleDynamo\SimpleDynamo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="598927311343388"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\tulik\Documents\study\android\PA4\SimpleDynamo\SimpleDynamo\app\build\intermediates\builds\debug\598927311343388\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="599285880668312"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\tulik\Documents\study\android\PA4\SimpleDynamo\SimpleDynamo\app\build\intermediates\builds\debug\599285880668312\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="599417098000514" />
+
+</instant-run>

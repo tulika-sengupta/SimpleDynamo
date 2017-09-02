@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tulik\Documents\study\android\PA4\SimpleDynamo\SimpleDynamo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c666c1c9cce1aa9dd4120a51ca86a7496a876873">
+        <dex dex="C:\Users\tulik\Documents\study\android\PA4\SimpleDynamo\SimpleDynamo\app\build\intermediates\pre-dexed\debug\instant-run_ea0b1fbd647225e955cbcf5e99f470ed16d4e330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tulik\Documents\study\android\PA4\SimpleDynamo\SimpleDynamo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="54819a17701fcb424c0778a4be05a95013530846">
+        <dex dex="C:\Users\tulik\Documents\study\android\PA4\SimpleDynamo\SimpleDynamo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f8b4c56f3608a00b455e940f340c3b712db39376.jar" />
+    </item>
+
+</items>
